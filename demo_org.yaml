@@ -5,6 +5,6 @@ metadata:
   name: grahslhp
 spec:
   profile:
-    displayName: H.P. Grahsl
-    email: hp@grahsl.at
-  memberOf: [group:default]
+    displayName: Grahsl H.P.
+    email: hanspeter@grahsl.at
+  memberOf: []
